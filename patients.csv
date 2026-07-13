@@ -1,0 +1,51 @@
+PatientID,Name,Age,Gender,Disease
+P101,Rahul,25,Male,Fever
+P102,Priya,30,Female,Diabetes
+P103,Arjun,45,Male,Heart Disease
+P104,Sneha,28,Female,Asthma
+P105,Vikram,60,Male,Diabetes
+P106,Anjali,35,Female,Fever
+P107,Karan,50,Male,BP
+P108,Meena,40,Female,Heart Disease
+P109,Rohan,22,Male,Asthma
+P110,Divya,31,Female,BP
+P111,Aman,29,Male,Fever
+P112,Neha,41,Female,Diabetes
+P113,Sanjay,53,Male,Heart Disease
+P114,Pooja,27,Female,Asthma
+P115,Ritesh,36,Male,BP
+P116,Kavya,20,Female,Fever
+P117,Harish,65,Male,Diabetes
+P118,Swathi,38,Female,Migraine
+P119,Nikhil,44,Male,Typhoid
+P120,Asha,33,Female,Anemia
+P121,Ajay,24,Male,Allergy
+P122,Lakshmi,47,Female,Arthritis
+P123,Ravi,55,Male,Diabetes
+P124,Keerthi,26,Female,Fever
+P125,Mohan,49,Male,Asthma
+P126,Nandini,37,Female,BP
+P127,Suresh,58,Male,Heart Disease
+P128,Bhavya,21,Female,Typhoid
+P129,Vinay,32,Male,Migraine
+P130,Deepa,42,Female,Anemia
+P131,Raj,34,Male,Fever
+P132,Geetha,39,Female,Diabetes
+P133,Kishore,52,Male,BP
+P134,Sindhu,23,Female,Allergy
+P135,Prasad,46,Male,Heart Disease
+P136,Sravani,29,Female,Asthma
+P137,Charan,31,Male,Fever
+P138,Reshma,43,Female,Arthritis
+P139,Gopi,61,Male,Diabetes
+P140,Hema,35,Female,BP
+P141,Manoj,27,Male,Typhoid
+P142,Sowmya,48,Female,Migraine
+P143,Venu,54,Male,Heart Disease
+P144,Anu,22,Female,Fever
+P145,Ram,40,Male,Anemia
+P146,Pallavi,36,Female,Asthma
+P147,Naresh,57,Male,BP
+P148,Siri,30,Female,Diabetes
+P149,Krishna,33,Male,Allergy
+P150,Harika,45,Female,Heart Disease
